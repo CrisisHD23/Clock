@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "a simple clock for a friend :)",
+    "githubUrl": "https://github.com/CrisisHD23/Clock"
   }
 }
